@@ -1,117 +1,121 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "developer",
-    "image": "https://user-images.githubusercontent.com/10413754/79948155-e5e9da80-84a5-11ea-83eb-34e2f5aa89f6.png",
-    "email": "johndoe@gmail.com",
-    "phone": "(111) 333-4567",
-    "url": "http://johndoe.com",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "name": "Ronny Benitez",
+    "label": "Software Engineer",
     "location": {
-      "address": "22111 Makiling",
-      "postalCode": "4027",
-      "city": "Calamba",
-      "countryCode": "PH",
-      "region": "Philippines"
+      "city": "Asuncion",
+      "countryCode": "1218",
+      "region": "Paraguay"
     },
-    "profiles": [{
-      "network": "Twitter",
-      "username": "johndoe",
-      "url": "http://twitter.com/johndoe"
-    }]
+    "phone": "+595972117101",
+    "email": "ronybenitez@gmail.com"
   },
-  "work": [{
-    "name": "Company",
-    "position": "Developer",
-    "url": "http://somecompany.com",
-    "startDate": "2020-01-01",
-    "endDate": "2020-01-01",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-    "highlights": [
-      "Lead Developer of Innovation hub"
-    ]
-  }],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "http://organization.com/",
-    "startDate": "2020-01-01",
-    "endDate": "2020-01-01",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "University",
-    "url": "https://institution.ph",
-    "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2020-01-01",
-    "endDate": "2020-01-01",
-    "score": "4.0",
-    "courses": [
-      "WEB101 - Web Development",
-      "SYS123 - Object Oriented Programming"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2020-11-01",
-    "awarder": "Company",
-    "summary": "Programmer of the Year 2020"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2020-10-01",
-    "url": "http://publication.com",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-  }],
-  "skills": [{
-    "name": "Web Development",
-    "level": "Master",
-    "keywords": [
-      "HTML",
-      "CSS",
-      "Javascript"
-    ]
-  }],
-  "languages": [{
-    "language": "English",
-    "fluency": "Native speaker"
-  }],
-  "interests": [{
-    "name": "Electronics",
-    "keywords": [
-      "PCB",
-      "IOT"
-    ],
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-  }],
-  "projects": [
+  "summary": "Passionate software engineer with diverse international experience creating scalable platforms from zero across Mexico, Spain, and the US. Proficient in backend development with Node.js, Python, Go as well as frontend technologies like React and Vue. Demonstrated success in steering teams to success and contributing to startup ecosystems.",
+  "skills": [
     {
-      "name": "Project Name",
-      "description": "Description...",
-      "highlights": [ 
-        "COVID19 Patient Tracker"
-      ],
-      "keywords": [
-        "PHP", "NodeJS", "Javascript"
-      ],
-      "startDate": "2020-01-01",
-      "endDate": "2020-01-01",
-      "url": "https://project.example.com",
-      "roles": [ 
-        "Lead Developer", "Designer"
-      ],
-      "image": "https://user-images.githubusercontent.com/10413754/79948155-e5e9da80-84a5-11ea-83eb-34e2f5aa89f6.png",
-      "entity": "Facebook, Google, Microsoft, Amazon",
-      "type": "web application"
+      "name": "Backend Development",
+      "keywords": ["Node.js", "Python", "Go"]
+    },
+    {
+      "name": "Frontend Development",
+      "keywords": ["React", "Vue"]
+    },
+    {
+      "name": "Machine Learning Models Implementation, Fine-Tuning, Testing and Deployment",
+      "keywords": ["TensorFlow", "Keras", "PyTorch"]
+    },
+    {
+      "name": "DevOps",
+      "keywords": ["AWS"]
+    },
+    {
+      "name": "Frameworks & Languages",
+      "keywords": ["TypeScript", "Python", "Node (TypeORM, Nest, Express)", "React (Redux, Next, GraphQL)", "Vue (Vuex)", "AWS (Redshift, Amplify, S3, Lambda, RDS, Cognito)", "ML (Tensorflow, Keras, Pytorch)", "Data Science (Pandas, PowerBI, Tableau, Locker Studio)", "Computer Vision", "React Native", "Go"]
+    }
+  ],
+  "work": [
+    {
+      "company": "Elevar Salud",
+      "position": "Tech Lead",
+      "startDate": "2023-05-01",
+      "endDate": "current",
+      "summary": "Leading the process of foundational backend creation over Nest JS with a Microservice based architecture in AWS. Frontend team management with Next JS (React) and TS. Data architecture planning and implementation.",
+      "location": "Mexico City, Mexico"
+    },
+    {
+      "company": "Rego Consulting",
+      "position": "FullStack Developer (Freelance)",
+      "startDate": "2022-11-01",
+      "endDate": "2023-05-01",
+      "summary": "Rego Engage: Platform similar to Zapier developed from Zero, In the frontend side we used React with TypeScript, Handling authentication using Cognito, styling with Material, and state management via Redux Toolkit, in the backend side we've created a platform over NestJS with a core backend managing the requests for the frontend and AWS lambdas to manage all the connectors of the platform.",
+      "location": "USA"
+    },
+    {
+      "company": "Arrenda",
+      "position": "Principal Data Scientist",
+      "startDate": "2022-03-01",
+      "endDate": "2022-11-01",
+      "summary": "Leader Data Engineer in Data Lake and Data Warehouse platform generation. Social Media and Financial Data Analysis including BI Reporting. Machine Learning Models for Underwriting analysis in order to predict the risk related to prop-tech loans. Establish data governance practices and ensure data security and compliance.",
+      "location": "Mexico City, Mexico"
+    },
+    {
+      "company": "Arrenda",
+      "position": "Backend Engineer and Tech Lead",
+      "startDate": "2021-07-01",
+      "endDate": "2022-03-01",
+      "summary": "Node JS based platform for user, deals and loan management. Architecture Design and Implementation (Database Model, Step Functions, ORM, etc). Deployed cloud infrastructure and distributed systems on AWS.",
+      "location": "Mexico City, Mexico"
+    },
+    {
+      "company": "OCM (On Campus Marketing)",
+      "position": "Full Stack Engineer (Freelance)",
+      "startDate": "2021-08-01",
+      "endDate": "2022-02-01",
+      "summary": "Working as Full stack developer with front-end over React connected to Python Back-end for e-commerce website. Included Elastic Search based engine for products retrieval including semantic similarity discriminator based on NLP.",
+      "location": "USA"
+    },
+    {
+      "company": "Warden Automation",
+      "position": "Backend Engineer",
+      "startDate": "2019-11-01",
+      "endDate": "2021-07-01",
+      "summary": "WardenID: Product designed for Warden Automation, providing KYC (Know Your Customer) services for Fintech Companies. Face Recognition, Liveness detection, and OCR integrated into a serverless platform. NodeJS based backend built on Nest, utilizing a SQL database and entities for managing KYC workflows. React-based frontend connected to the backend via GraphQL for seamless data exchange. Proprietary OCR for metadata extraction: ID documents are subjected to OCR to extract relevant metadata for KYC processes. Liveness detection with Facemesh generation.",
+      "location": "Madrid, Spain"
+    },
+    {
+      "company": "Warden Automation",
+      "position": "Machine Learning Engineer",
+      "startDate": "2018-01-01",
+      "endDate": "2019-11-01",
+      "summary": "Warden Retail: Designed for large retailers to gather customer insights including footfall, heatmaps, and demographic analytics. Users can leverage their current CCTV infrastructure by installing a proxy server to collect data. Analytical data is presented through a web-based dashboard and a mobile app. Proxy server with elegant frontend: Built using Electron (React + NodeJS), facilitating seamless data transfer to the backend. Employing a microservices (MS) architecture with AWS services like Lambda, S3, SNS, and DynamoDB. Retail analytics dashboard: Developed using React, providing a comprehensive view of customer data and insights. Mobile app with React Native: Offers on-the-go access to retail analytics.",
+      "location": "Madrid, Spain"
+    },
+    {
+      "company": "Rugertech",
+      "position": "Full Stack Web Developer",
+      "startDate": "2016-03-01",
+      "endDate": "2017-07-01",
+      "summary": "Develop And maintain backend solutions using Node.js and Express framework. Design and implement RESTful APIs for seamless integration with frontend applications. Create and optimize database schemas and queries using MySQL. Implement GraphQL APIs to enhance data querying and manipulation. Collaborate with frontend team to ensure smooth integration and API functionality. Write clean, efficient, and scalable code following best practices and coding standards. Conduct thorough testing and debugging of backend applications. Perform performance optimizations to enhance system efficiency and scalability.",
+      "location": "Asuncion, Paraguay"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Nacional De Asuncion",
+      "area": "Mechatronic Engineer With Machine Learning Degree",
+      "studyType": "Bachelor of Science",
+      "startDate": "2013-08-01",
+      "endDate": "2018-11-01",
+      "location": "Asuncion, Paraguay"
+    },
+    {
+      "institution": "Universidad Nacional De Asuncion",
+      "area": "Computational Science",
+      "studyType": "Master of Science",
+      "startDate": "2023-08-01",
+      "endDate": "2023-11-01",
+      "location": "Asuncion, Paraguay"
     }
   ]
 }
+
